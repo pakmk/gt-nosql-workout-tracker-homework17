@@ -21,7 +21,7 @@ This application can be used to create a workout tracker using Mongo database, M
 
 [Deployed Website](https://gt-nosql-workout-tracker-hw17.herokuapp.com/)
 
-![Min's Website](./assets/images/workouttracker.png)
+![Workout Tracker Website](./assets/images/workouttracker.png)
 
 ## Credits
 
